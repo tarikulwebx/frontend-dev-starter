@@ -1,7 +1,14 @@
 # frontend-dev-starter
 Frontend development starter template.
 
-#### Included libraries
+### Usage:
+- Clone the repository using `git clone https://github.com/tarikulwebx/frontend-dev-starter.git`
+- Run `npm install` to install all node packages
+- Run `npm run dev` to run the local server using vite
+- Run `npm build` for production
+
+
+### Included libraries:
 - [React JS](https://react.dev/)
 - [React Router](https://reactrouter.com/en/main)
 - [Props Type](https://www.npmjs.com/package/prop-types)
