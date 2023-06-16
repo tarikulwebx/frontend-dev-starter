@@ -5,7 +5,7 @@ Frontend development starter template.
 - Clone the repository using `git clone https://github.com/tarikulwebx/frontend-dev-starter.git`
 - Run `npm install` to install all node packages
 - Run `npm run dev` to run the local server using vite
-- Run `npm build` for production
+- Run `npm run build` for production build
 
 
 ### Included libraries:
