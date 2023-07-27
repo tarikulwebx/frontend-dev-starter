@@ -11,8 +11,8 @@ Frontend development starter template.
 
 ### Included libraries:
 
--   [React JS](https://react.dev/) _18.2.0_
--   [React Router](https://reactrouter.com/en/main) _6.13.0_
+-   [React JS](https://react.dev/) _#18.2.0_
+-   [React Router](https://reactrouter.com/en/main) #_6.13.0_
 -   [Props Type](https://www.npmjs.com/package/prop-types) _15.8.1_
 -   [Vite](https://vitejs.dev/guide/) _4.3.9_
 -   [TailwindCSS](https://tailwindcss.com/) _3.3.2_
