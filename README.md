@@ -20,3 +20,4 @@ Frontend development starter template.
 -   [React Icons](https://react-icons.github.io/react-icons) <sup><sub>_4.10.1_</sub></sup>
 -   [Axios](https://axios-http.com/docs/intro) <sup><sub>_1.4.0_</sub></sup>
 -   [Tailwind Prettier Plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) <sup><sub>_0.4.1_</sub></sup>
+-   [Faker](https://fakerjs.dev/guide/) <sup><sub>_8.0.2_</sub></sup>
